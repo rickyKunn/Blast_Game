@@ -13,7 +13,7 @@
 
 ## プレイ画面
 
-![プレイ GIF](./resource2.gif)
+![プレイ GIF](./docs/resource2.gif)
 
 ---
 
