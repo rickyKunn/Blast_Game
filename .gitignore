@@ -1,0 +1,14 @@
+	# ビルド成果物
+*/export/
+*/build/
+*.class
+
+# OS／IDE の一時ファイル
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ログ・一時ファイル
+*.log
+*.tmp
