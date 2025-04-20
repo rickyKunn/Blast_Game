@@ -1,6 +1,6 @@
 # Blast Game
 
-![Processing](https://img.shields.io/badge/Processing-3.5.4-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Processing](https://img.shields.io/badge/Processing-3.5.4-blue)
 
 ---
 
@@ -19,16 +19,13 @@
 
 ## 主な機能
  
-- 複数種類の敵キャラクター（スピード・弾パターン違い）  
-- スコアと残機の画面表示    
-- BGM と効果音の再生（Processing の `minim` ライブラリ利用）  
-- ゲームオーバー／クリア画面の演出
+- 一定経験値獲得ごとにレベルアップ  
+- レベルアップ時に計10種のスキルの中から1つ選択  
+- BGM と効果音の再生（Figma,GarageBandを用いて作成)
 
 ---
 
 ## 使用技術
 
 - **言語**：Java（Processing 3.5.4）  
-- **ライブラリ**：  
-  - [Processing](https://processing.org/)  
-- **開発環境**：Processing IDE  
+- **開発環境**：Processing IDE
