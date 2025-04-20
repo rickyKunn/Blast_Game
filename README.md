@@ -13,7 +13,7 @@
 
 ## デモ
 
-![ゲーム画面](./assets/screenshot1.png)  
+![レベル7](./resource_1.png)  
 ![プレイ GIF](./assets/demo.gif)
 
 ---
