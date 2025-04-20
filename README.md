@@ -11,10 +11,9 @@
 
 ---
 
-## デモ
+## プレイ画面
 
-![レベル7](./resource_1.png)  
-![プレイ GIF](./assets/demo.gif)
+![プレイ GIF](./resource2.gif)
 
 ---
 
